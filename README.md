@@ -19,3 +19,5 @@ Python 3 course for the students of Techncial University of Gdansk, Faculty of M
     1. Map, Filter and Lambda Expressions.ipynb
     1. EXCERCISE - Function.ipynb
 1. Object Oriented Programming
+
+LOCALY MADE CHANGE
