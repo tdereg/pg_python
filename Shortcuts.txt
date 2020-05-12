@@ -14,3 +14,6 @@ l               Enable or disable line numbering within a code cell
 Double arrow    Run all cells within the Notebook or the 
 Toolbar arrows  Run all cells above or below the current code cell
 Variable icon   Show all variables and their values
+
+https://code.visualstudio.com/docs/editor/debugging
+https://code.visualstudio.com/docs/editor/versioncontrol
