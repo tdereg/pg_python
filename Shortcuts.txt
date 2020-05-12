@@ -1,0 +1,16 @@
+Ctrl+Shift+P    Command Palette
+Ctrl+=          Increase the Zoom level.
+Ctrl+-          Decrease the Zoom level.
+Ctrl+Numpad0    Reset the Zoom level to 0.
+
+Jupyter
+Enter           Switch to edit mode
+Ctrl+Enter      Run the cell and insert new cell immediatelly below
+Shift+Enter     Run the cell
+dd              Delete cell
+m               Switche the cell type to Markdown 
+y               Switche the cell type to code
+l               Enable or disable line numbering within a code cell
+Double arrow    Run all cells within the Notebook or the 
+Toolbar arrows  Run all cells above or below the current code cell
+Variable icon   Show all variables and their values
