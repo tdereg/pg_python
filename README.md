@@ -95,9 +95,9 @@ The scope of the material for end-semester test
 	2. Click big green button ***Code***
     2. Choose option ***Download zip*** and download the code
 	3. Unzip pg_python-masgter.zip
-2. Upload code to ***Google Drive***
+2. Upload uzipped *pg_python-masgter* folder to ***Google Drive***
     1. In Google Drive  *root folder* create a folder named *Colab Notebooks*
-	2. Copy to this folder unzipped folders downloaded in step #1
+	2. Copy to this folder unzipped *pg_python-masgter* folder downloaded in step #1 (not only the folder but also all its content)
 2. Run Jupyter Notebooks from ***Google Drive*** in [Google Colaboratory](https://colab.research.google.com/)
 	1. Double-click on any of the notebooks (.ipynb file) you uploaded to Google Drive (e.g. *01.00 Course introduction & overview.ipynb*)
     2. Click button ***Connect more apps*** and choose ***Google Colaboratory**
