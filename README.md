@@ -1,6 +1,7 @@
 Python 3 course for the students of Techncial University of Gdansk, Faculty of Management and Economics
 
-<h1><font color="green"><center>Schedule for the academic year 2020/2021<br/>Summer semester</center></font></h1>
+# Schedule for the academic year 2020/2021
+## Summer semester
 
 | Chapter | Sub-chapter | Full-time<br/>3.1 and 3.2 | Extramural<br/>1.1 and 1.2 |
 | :--- | :--- | :---: | :---: |
@@ -29,12 +30,11 @@ Python 3 course for the students of Techncial University of Gdansk, Faculty of M
 | 06. Testing your code                | 06.01 Testing                                                | 09.02 | - |
 | 06. Testing your code                | 06.02-Unit Testing                                           | 09.02 | - |
 
-<h1><font color="green"><center>Mid- and End- Semester Tests<br/>Fulltime & Extramural Sudents</center></font></h1>
-
+## Mid- and End- Semester Tests
 ### Tests, full-time
 #### 21.04.2021 - Mid-semester test
 The scope of the material for mid-semester test
- * 01. Python Data Types
+ * **Python Data Types**
    * 01.00 Course introduction & overview
    * 01.01 Variables and numbers
    * 01.02 Strings
@@ -44,7 +44,7 @@ The scope of the material for mid-semester test
    * 01.06 Sets and Booleans
    * 01.07 Comparison Operators
    * 01.08 EXCERCISE - Objects and Data Structures
- * 02. Statements and operators
+ * **Statements and operators**
    * 02.01 Indentations and if statements
    * 02.02 for and while loops
    * 02.03 Operators and List Comprehensions
@@ -52,11 +52,11 @@ The scope of the material for mid-semester test
 
 #### 26.05.2021 - End-semester test
 The scope of the material for the end-semester test
- * 03. Methods and functions
+ * **Methods and functions**
      * 03.01-Methods, functions and variables scope, Ex. 11
      * 03.02-Map, Filter and Lambda Expressions
      * 03.03 EXCERCISE - Function, , Ex. L1, L2, L3
- * 04. FIles, exceptions and user input 
+ * **FIles, exceptions and user input**
      * 04.01 Files, Ex. 1-7
      * 04.02 Exceptions, Ex. 1-4
      * 04.03 User input, Ex. 1-3
@@ -84,11 +84,10 @@ The scope of the material for end-semester test
 | Source | link   |
 |------|------|
 |<img src="01. Python Data Types/img/python_udemy.jpg" width="200" align="left" alt="Python Bootcamp">|<a href="https://www.udemy.com/course/complete-python-bootcamp/" align="bottom">Complete Python Bootcamp: Go from zero to hero in Python 3</a>|
-|<img src="/01. Python Data Types
-img/python_crashcourse.jpg" width="200" align="left" alt="Python Crash Course" />|<a href="https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593279280">Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming</a>|
+|<img src="/01. Python Data Types/img/python_crashcourse.jpg" width="200" align="left" alt="Python Crash Course" />|<a href="https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593279280">Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming</a>|
 
 <h1><font color="green"><center>Setting up development environment<br/>Cloud</center></font></h1>
-## Where to find the code?
+## How to run the code?
 [GitHub repo](https://github.com/tdereg/pg_python)
 
 
