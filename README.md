@@ -64,7 +64,7 @@ The scope of the material for the end-semester test
 ### Tests, extramural
 #### 11.06.2021 - End-semester test
 The scope of the material for end-semester test
- * 01. Python Data Types
+ * **Python Data Types**
    * 01.00 Course introduction & overview
    * 01.01 Variables and numbers
    * 01.02 Strings
@@ -74,7 +74,7 @@ The scope of the material for end-semester test
    * 01.06 Sets and Booleans
    * 01.07 Comparison Operators
    * 01.08 EXCERCISE - Objects and Data Structures
- * 02. Statements and operators
+ * **Statements and operators**
    * 02.01 Indentations and if statements
    * 02.02 for and while loops
    * 02.03 Operators and List Comprehensions
@@ -86,7 +86,6 @@ The scope of the material for end-semester test
 |<img src="01. Python Data Types/img/python_udemy.jpg" width="200" align="left" alt="Python Bootcamp">|<a href="https://www.udemy.com/course/complete-python-bootcamp/" align="bottom">Complete Python Bootcamp: Go from zero to hero in Python 3</a>|
 |<img src="/01. Python Data Types/img/python_crashcourse.jpg" width="200" align="left" alt="Python Crash Course" />|<a href="https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593279280">Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming</a>|
 
-<h1><font color="green"><center>Setting up development environment<br/>Cloud</center></font></h1>
 ## How to run the code?
 [GitHub repo](https://github.com/tdereg/pg_python)
 
